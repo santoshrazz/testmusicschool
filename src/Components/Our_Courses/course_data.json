@@ -1,0 +1,64 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Beginner Ballet",
+      "slug": "beginner-ballet",
+      "description": "Discover the grace and elegance of ballet in our Beginner Ballet class. Designed for those new to ballet, this course covers basic positions, techniques, and movements. Build strength, flexibility,",
+      "price": 99.99,
+      "instructor": "Jane Smith",
+      "isFeatured": true,
+      "image": "https://plus.unsplash.com/premium_photo-1681492521669-4603011d646c?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 2,
+      "title": "Hip-Hop Groove",
+      "slug": "hip-hop-groove",
+      "description": "Get ready to move to the beat with our Hip-Hop Groove class! Perfect for all skill levels, this energetic course will teach you the latest hip-hop dance moves, ",
+      "price": 79.99,
+      "instructor": "Michael Johnson",
+      "isFeatured": true,
+      "image": "https://plus.unsplash.com/premium_photo-1681492508069-d558d8fa0ad7?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 3,
+      "title": "Contemporary Dance Exploration",
+      "slug": "contemporary-dance-exploration",
+      "description": "Unleash your creativity in our Contemporary Dance Exploration class. Combining elements of modern, jazz, and ballet, this course encourages personal expression through fluid and dynamic movement.",
+      "price": 89.99,
+      "instructor": "Emily Davis",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1524594152303-9fd13543fe6e?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 4,
+      "title": "Latin Dance Fusion",
+      "slug": "latin-dance-fusion",
+      "description": "Spice up your dance repertoire with our Latin Dance Fusion class. This exciting course blends salsa, merengue, bachata, and cha-cha for a high-energy",
+      "price": 84.99,
+      "instructor": "Carlos Martinez",
+      "isFeatured": true,
+      "image": "https://images.unsplash.com/photo-1518310383802-640c2de311b2?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 5,
+      "title": "Jazz Dance Fundamentals",
+      "slug": "jazz-dance-fundamentals",
+      "description": "Step into the world of jazz with our Jazz Dance Fundamentals class. This course covers essential jazz techniques, including kicks, leaps, and turns, set to upbeat and contemporary music. Ideal for ",
+      "price": 79.99,
+      "instructor": "Sarah Lee",
+      "isFeatured": true,
+      "image": "https://plus.unsplash.com/premium_photo-1661503036494-47dc110a1e7d?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 6,
+      "title": "Ballroom Basics",
+      "slug": "ballroom-basics",
+      "description": "Step onto the dance floor with confidence in our Ballroom Basics class. Learn the foundational steps and techniques of classic ballroom dances such as the waltz, tango,",
+      "price": 89.99,
+      "instructor": "Anna Thompson",
+      "isFeatured": true,
+      "image": "https://plus.unsplash.com/premium_photo-1681492524765-e95ea1b58b46?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  ]
+}
