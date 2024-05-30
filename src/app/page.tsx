@@ -1,22 +1,23 @@
-import Footer from "@/Components/Footer/Footer";
-import Webinars from "@/Components/Future_Webinars/Webinars";
-import { HeroSection } from "@/Components/HeroSection/HeroSection";
-import { Mask_Reveal } from "@/Components/Mask_Reveal/Mask_Reveal";
-import Courses from "@/Components/Our_Courses/Courses";
-import { BackgroundBoxesDemo } from "@/Components/Our_Instructor/Instructor";
-import { GridBackground } from "@/Components/TestiMonal/Grid_Background";
-import { WhyChooseUs } from "@/Components/WhyChooseUs/WhyChooseUs";
+
+import FeaturedCourses from "@/components/FeaturedCourses";
+import Footer from "@/components/Footer";
+import HeroSection from "@/components/HeroSection";
+import Instructors from "@/components/Instructors";
+import MusicSchoolTestimonials from "@/components/TestimonialCards";
+import UpcomingWebinars from "@/components/UpcomingWebinars";
+import WhyChooseUs from "@/components/WhyChooseUs";
+
+
 export default function Home() {
   return (
-    <>
+    <main className="min-h-screen bg-black/[0.96] antialiased bg-grid-white/[0.02]">
       <HeroSection />
-      <Mask_Reveal />
-      <Courses />
+      <FeaturedCourses />
       <WhyChooseUs />
-      <GridBackground />
-      <Webinars />
-      <BackgroundBoxesDemo />
+      <MusicSchoolTestimonials />
+      <UpcomingWebinars />
+      <Instructors />
       <Footer />
-    </>
+    </main>
   );
 }
